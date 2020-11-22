@@ -31,8 +31,7 @@ h4.amiable {
 }
 
 h4.indifferent {
-  background: linear-gradient (
-    to right,
+  background: linear-gradient (to right,
     #1D582C,
     #dddd22);
 }
